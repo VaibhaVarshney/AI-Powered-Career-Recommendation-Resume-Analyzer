@@ -1,0 +1,11 @@
+Role,Required_Skills,Domain
+Data Analyst,"Python, SQL, Excel, PowerBI, Tableau, Statistics",Analytics
+Data Scientist,"Python, Pandas, NumPy, Scikit-learn, Deep Learning, Statistics, Visualization",Data Science
+ML Engineer,"Python, TensorFlow, Keras, PyTorch, Scikit-learn, AWS, MLOps",Machine Learning
+AI Engineer,"Python, NLP, Transformers, LangChain, LLMs, Deep Learning",Artificial Intelligence
+Data Engineer,"Python, SQL, Spark, Hadoop, AWS, ETL, Airflow",Data Engineering
+Business Analyst,"Excel, PowerBI, SQL, Communication, Requirements Analysis",Business Intelligence
+Software Engineer,"Python, Java, C++, Git, REST APIs, Data Structures",Software Development
+Cloud Engineer,"AWS, Docker, Kubernetes, CI/CD, Linux, Terraform",Cloud Computing
+DevOps Engineer,"AWS, Jenkins, Docker, CI/CD, GitHub Actions, Monitoring",DevOps
+Product Manager,"Communication, Agile, Product Roadmap, Jira, Business Analysis",Product Management

@@ -1,0 +1,201 @@
+name,skills,predicted_role,similarity_score
+Unknown,"Python, C++, C, Tensorflow, Numpy, MySQL",ML Engineer,0.21816858144244589
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Not Provided,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, AWS, English",Data Engineer,0.05981816478005306
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Not Available,"Python, Django, MySQL",Data Analyst,0.01976790593583055
+Not Available,Python,Data Analyst,0.021604874362498052
+Not Available,"C, C++, J2EE, Spring, Hibernate, My SQL, PostgreSQL",Data Analyst,0.038179477689127266
+Unknown,"Java, Spring, Hibernate, MySQL",Software Engineer,0.02791643917349874
+Not Available,"Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel",Data Analyst,0.18823157545491717
+Not Available,"Java, JavaScript",Business Analyst,0.17365665717318865
+Unknown,"C, Core Java",Software Engineer,0.014555734650621727
+Not Available,"Java, J2EE, Swift, HTML, Shell Script, MySQL",Software Engineer,0.025289063740905116
+Fahed,"Python, R Studio, Machine Learning, Data Visualization, Tableau",Data Analyst,0.1630120287845001
+Unknown,"Python, C, C++, Java, HTML, Django, MySQL, English",Software Engineer,0.025150186486810795
+Unknown,"Java, C, C++, Hibernate, JSP, Servlets, SQL, MySQL, Oracle 9i, Oracle 10g",Data Analyst,0.026782751299827313
+Fahed,"Python, R Studio, Machine Learning, Data Visualization, Tableau",Data Analyst,0.1630120287845001
+Artem Sliusarenko,"Python, Visual Basic 6.0, Selenium, RALLY / IBM TD Platform, SAFe - Agile Craft, MS-SQL Server / Oracle 8/8i, AWS, Docker, English, Hindi, Marathi, Tulu",Cloud Engineer,0.07878154011272505
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+Newcomer Indian Advocate,"English, Hindi, Punjabi, Administration, Legal Research, Microsoft Office, Drafting",Data Analyst,0.0
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Not Available,Not Available,Data Analyst,0.0
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Unknown,"Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty",Cloud Engineer,0.0922244346870014
+Not Available,"C++, C, Java, DS, Hibernate, JDBC, Java J2EE",Software Engineer,0.03677872840850216
+Unknown,"SQL, Bizagi, MS Visio, MS Office, HPQC, Agile, Waterfall",Product Manager,0.15830717215016488
+Unknown,"Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, DB2/400, Pivotal Cloud Foundry, English, German",Software Engineer,0.018740213432100514
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services",Product Manager,0.08240846637652721
+Not Available,"SAP ABAP, SAP NetWeaver Gateway, oData, Fiori",Data Analyst,0.0
+Unknown,"Java, C, C++, Hibernate, Spring, SQL, MySQL, Oracle 9i, Oracle 10g",Data Analyst,0.02729119048701068
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Unknown,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, Oracle, Azure Web Services",Product Manager,0.08626525656948882
+Not Available,Not Available,Product Manager,0.10386710023869995
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Unknown,"SAP ABAP, SAP NetWeaver Gateway, oData, Fiori",Data Analyst,0.0
+Unknown,"Java, Spring, Hibernate, MySQL",Software Engineer,0.02791643917349874
+Unknown,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, AWS, English",Data Engineer,0.05991660930484469
+Unknown,"Python, Database, MySQL, Django, HTML5, REST API",Software Engineer,0.1478381303247816
+Unknown,"C, Core Java, English",Software Engineer,0.009917355587156534
+Not Provided,"MICROSOFT SHAREPOINT, SHAREPOINT, SQL, ASP, ASP.NET, Not Provided",Data Analyst,0.02231339223663925
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML",Product Manager,0.08523071065108437
+Not Provided,Not Available,Data Analyst,0.0
+Not Available,"Python, Java, Flask, Django, MongoDB, MySQL, PostgreSQL, Pivotal Cloud Foundry, English, German",Software Engineer,0.025334694386459147
+Not Available,"C, C++, Java, Android, MS Access, SQL, Oracle",Software Engineer,0.05611482062575045
+Unknown,"Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty",Cloud Engineer,0.0922244346870014
+Fahed,"Python, R Studio, Machine Learning, Data Visualization, Tableau",Data Analyst,0.1630120287845001
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+Not Available,"C, C++, Java, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office",Cloud Engineer,0.07266044657330556
+Yogesh Tikhat,"Oracle RDBMS, RMAN, Netbackup, SCOM, RHEL, UNIX, Windows",Data Analyst,0.0
+Not Provided,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python",Data Analyst,0.053458041361660644
+Unknown,"Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel",Data Analyst,0.18823157545491717
+Not Provided,"Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3",Software Engineer,0.11647764006433729
+Not Provided,"Python, C++, MySQL, Not Provided",Data Analyst,0.018650900263417237
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Not Available,Python,Data Analyst,0.021604874362498052
+Not Provided,Not Provided,Data Analyst,0.0
+Not Available,Not Available,Data Analyst,0.009362282547338374
+Not Available,"Java, JavaScript",Business Analyst,0.17365665717318865
+Not Available,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python",Data Analyst,0.054350109911837
+Newcomer Indian Advocate,"Windows, Word processing software, English, Hindi, Punjabi",Data Analyst,0.0
+Fahed,"Python, R Studio, Tableau, Machine Learning",Data Analyst,0.18416620357958563
+Unknown,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, AWS, English",Data Engineer,0.05991660930484469
+Not Available,Python,Data Analyst,0.021604874362498052
+Not Available,"C, C++, Java, Android, MS Access, SQL, Oracle",Software Engineer,0.05611482062575045
+Not Available,"Java, J2EE, Swift, HTML, Shell Script, MySQL",Software Engineer,0.025289063740905116
+Unknown,"Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, Pivotal Cloud Foundry, English, German",Software Engineer,0.022388266080781385
+Unknown,"Java, Spring, Hibernate, MySQL",Software Engineer,0.02791643917349874
+Unknown,"C, Core Java",Software Engineer,0.009925786781319116
+Not Provided,"Python, C++, C, Tensorflow, Numpy, MySQL, Not Provided",ML Engineer,0.17922446094721506
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Not Available,"Python, Django, MySQL, REST API, HTML5",Software Engineer,0.15123985310210575
+Unknown,"SQL, Bizagi, MS Visio, Indigo Studio, HPQC, Waterfall, Agile (Scrum), English",Product Manager,0.14957849786323826
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Not Provided,"Java, JavaScript, PHP, Spring MVC, Hibernate, JDBC, MsSQL, MySQL, Oracle, AzureWeb SunTechnologies Services, AzurewebServices, Not Provided",Product Manager,0.0666217235297124
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+linkedin.com/in/aditya-rathore-b4600b146,"Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras",ML Engineer,0.1550284314947932
+Unknown,"Java, Advanced Java, Oracle, MySQL, Derby, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty",Cloud Engineer,0.0922244346870014
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML",Product Manager,0.08523071065108437
+Unknown,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, AWS, English",Data Engineer,0.05991660930484469
+Unknown,"Java, Spring Boot, JSP, Servlet, MySQL",Software Engineer,0.01578938169997636
+Not Available,"SAP ABAP, SAP Netweaver Gateway, oData, Fiori",Data Analyst,0.0
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
+Data Scientist,"Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras",ML Engineer,0.1550284314947932
+Not Available,"Java, JavaScript",Business Analyst,0.17365665717318865
+Not Available,"C++, C, Java, DS, Hibernate, JDBC, Java J2EE",Software Engineer,0.03677872840850216
+Unknown,Not Available,Data Analyst,0.0
+Unknown,"Java, Spring, Hibernate, MySQL",Software Engineer,0.02791643917349874
+Unknown,"C, Core Java",Software Engineer,0.009925786781319116
+Unknown,"Java, C, C++, Hibernate, JSP, Servlets, SQL, MySQL, Oracle 9i, Oracle 10g",Data Analyst,0.026393763701800035
+Unknown,"Python, Django, Django REST Framework, MySQL, Oracle, SQLite, MongoDB, HTML, CSS, RESTful Web Services, GitHub, JIRA, Windows, Unix",Product Manager,0.18120869640409976
+Unknown,"C, Core Java",Software Engineer,0.014555734650621727
+Not Available,Python,Data Analyst,0.021604874362498052
+Not Provided,"C, SQL, JAVA, Javascript, Python, Spring, Hibernate, mysql, AWS, English",Data Engineer,0.04204938735160772
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+Unknown,"Python, C, C++, Java, HTML, Django, MySQL, English",Software Engineer,0.025150186486810795
+Not Available,"C, C++, Java, Android, MS Access, SQL, Oracle",Software Engineer,0.05611482062575045
+Unknown,"Java, J2EE, Swift, HTML, Shell Script, MySQL, SVN, Jenkins, Hudson, Weblogic12c, Android Studio, Eclipse, Oracle, Xcode, Windows 10, Mac (High Sierra)",DevOps Engineer,0.05745318241345419
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Not Provided,"Python, C++, Not Provided, MySQL",Data Analyst,0.018650900263417237
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Aditya Rathore,"Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras",ML Engineer,0.1550284314947932
+Unknown,"Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty",Cloud Engineer,0.092289503444141
+Unknown,"C, Core Java",Software Engineer,0.014555734650621727
+Not Provided,"Python, C++, Not Provided, MySQL",Data Analyst,0.018650900263417237
+Unknown,"Java, C, C++, Hibernate, Spring, SQL, MySQL, Oracle 9i, Oracle 10g",Data Analyst,0.02729119048701068
+Unknown,"Java, Spring Boot, Servlet, JSP, MySQL",Software Engineer,0.01578938169997636
+Not Available,"Python, Django, MySQL",Data Analyst,0.01976790593583055
+Unknown,"SQL, Bizagi, MS Visio, Indigo Studio, HPQC, Agile (Scrum), Waterfall, Smoke Testing, Sanity Testing, Integration Testing, Functional Testing, Acceptance Testing, UI Testing",Product Manager,0.08122381971209648
+Not Available,"C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office",Cloud Engineer,0.07305515670830563
+Unknown,"SQL, Bizagi, MS Visio, Indigo Studio, HPQC, Agile (Scrum), Waterfall",Product Manager,0.1573901264398803
+Not Provided,"Java, Spring, Hibernate, MySQL, Not Provided",Software Engineer,0.02225374389968421
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Not Available,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python",Data Analyst,0.054350109911837
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services",Product Manager,0.08240846637652721
+Not Provided,"Python, HTML, MySQL, Django, Not Provided",Data Analyst,0.013552896622680813
+Not Provided,"C, Core Java, Not Provided",Product Manager,0.0956815914197861
+Not Provided,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, AWS",Data Engineer,0.05722230406560394
+Unknown,"C, Core Java, English",Software Engineer,0.009917355587156534
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
+Unknown,"Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3",Software Engineer,0.09167700757852577
+Not Available,"Python, Database, MySQL, Django, HTML5, REST API",Software Engineer,0.1478381303247816
+Unknown,"Java, Oracle, MySQL, Derby, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty",Cloud Engineer,0.09763893873946299
+Not Provided,"Python, Shell Scripting, Not Provided, AWS, Azure",Data Engineer,0.014965036162815352
+Not Available,"Python, C++, TensorFlow, NumPy, MySQL",ML Engineer,0.21816858144244589
+Not Available,"C, C++, Java, Android, MS Access, SQL, Oracle",Software Engineer,0.05611482062575045
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
+Not Available,"Network Security, Network Administration, Firewall and VPN Configuration, Routing and Switching",Data Analyst,0.0
+Unknown,English,Data Analyst,0.0
+Java Developer,"c++, c, JAVA, DS, Jdbc, Hibernate, Java J2Ee, Javascript, JQuery, Ajax",Software Engineer,0.03462903883828413
+Unknown,"C, SQL, JAVA, Spring, Hibernate, mysql, AWS, English",Data Engineer,0.052027860953119384
+Unknown,"Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, DB2/400, Pivotal Cloud Foundry, English, German",Software Engineer,0.018740213432100514
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Not Available,"Python, AS/400, Flask, MongoDB, MySQL, German",Data Analyst,0.015726790343594144
+Not Available,"Java, SQL, PL/SQL, C, C++, Ext JS, JSP, BootStrap, Oracle, MS-SQL, MS-Access, MS-Excel",Data Analyst,0.18136542671610878
+Not Available,"C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office",Cloud Engineer,0.07305515670830563
+Not Provided,"Python, HTML, Java, Django, MySQL, Not Provided",Software Engineer,0.02421188246815442
+Unknown,"Python, Spark, Hadoop, IBM Bluemix, English",Data Engineer,0.1646646159473052
+Unknown,"Java, C++, SQL, TestNG, Selenium WebDriver, Eclipse, Postman, Jenkins",DevOps Engineer,0.053031706938541166
+Unknown,"Python, HTML, MySQL, Django, English",Data Analyst,0.014083311007688056
+Not Provided,"Java, AJAX, HTML, J2EE, Spring MVC, Ionic 3, Angular JS, Spring, Not Provided, MsSQL, MySQL, Oracle",Product Manager,0.07827182530825212
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Not Available,"Java, Spring Boot, JSP, Servlet, MySQL",Software Engineer,0.01578938169997636
+Not Available,"Java, J2EE, Swift, HTML, Shell Script, MySQL",Software Engineer,0.025289063740905116
+Not Available,Python,Data Analyst,0.021604874362498052
+Not Available,"Java, JavaScript",Business Analyst,0.17365665717318865
+Unknown,"C, Core Java",Software Engineer,0.014555734650621727
+Unknown,"Python, Django, MySQL, REST API, English",Software Engineer,0.16536049362519434
+Unknown,"Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3",Software Engineer,0.09167700757852577
+Artem Sliusarenko,"Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker, English, Ukrainian",ML Engineer,0.12808558665038272
+Unknown,"Java, Spring Boot, JSP, Servlet, MySQL",Software Engineer,0.01578938169997636
+Not Available,Not Available,Data Analyst,0.0
+Unknown,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, AWS, English",Data Engineer,0.05991660930484469
+Not Available,"Python, AS/400, Flask, MongoDB, MySQL, PostgreSQL, German",Data Analyst,0.015611740604183107
+Not Provided,"C, Core Java, Not Provided",Software Engineer,0.012282271983799983
+Not Available,"C++, C, Java, DS, Hibernate, JDBC, Java J2EE",Software Engineer,0.03677872840850216
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+Unknown,"Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio, English",DevOps Engineer,0.04960521676101416
+Unknown,"Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel",Data Analyst,0.18823157545491717
+Unknown,"Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3",Software Engineer,0.09167700757852577
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML",Product Manager,0.08523071065108437
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
+Not Available,Not Available,Data Analyst,0.0
+Not Available,Not Available,Data Analyst,0.0
+Not Available,"C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office",Cloud Engineer,0.07305515670830563
+Unknown,"Java, SQL, PL/SQL, C, C++, Ext JS, JSP, Bootstrap, Oracle, MS-SQL, MS-Access, MS-Excel",Data Analyst,0.18136542671610878
+Not Available,"Java, JavaScript",Business Analyst,0.17365665717318865
+Not Provided,Not Provided,Data Analyst,0.0
+Not Provided,"Java/J2EE, Swift, HTML, Shell script, MySQL, Not Provided",Software Engineer,0.02116071339013038
+Not Provided,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, AWS",Data Engineer,0.05722230406560394
+Unknown,"SQL, Bizagi, MS Visio, HPQC, Agile, Waterfall",Product Manager,0.17707726808192703
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
+Not Available,Not Available,Data Analyst,0.0
+Unknown,"SAP ABAP, SAP NetWeaver Gateway, oData, Fiori",Data Analyst,0.0
+Not Available,"Python, Django, MySQL, REST API, HTML5",Software Engineer,0.15123985310210575
+Not Available,"C++, C, Java, DS, Hibernate, JDBC, Java J2EE",Software Engineer,0.03677872840850216
+Not Available,"C++, C, Java, DS, Hibernate, JDBC, Java J2EE",Software Engineer,0.03677872840850216
+Unknown,"C, C++, Java, Android, Hibernate, Spring, MS Access, SQL, Oracle",Software Engineer,0.0547156874957237
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services",Product Manager,0.08240846637652721
+Not Available,"Java, Spring Boot, JSP, Servlet, MySQL",Software Engineer,0.01578938169997636
+Unknown,"Java, C++, SQL, TestNG, Selenium WebDriver, Eclipse, Postman, Jenkins",DevOps Engineer,0.05115515493456153
+Not Provided,"C, SQL, JAVA, Javascript, HTML, CSS, Jquery, JavaEE, Mysql, Python, Not Provided, AWS, English",Data Engineer,0.03635500241992308
+Unknown,"Java, C, C++, Hibernate, JSP, Servlets, SQL, Oracle 9i, Oracle 10g, MySQL",Data Analyst,0.026393763701800035
+Unknown,"Python, HTML, Java, Django, MySQL, English",Software Engineer,0.025150186486810795
+Not Available,"Python, AS/400, Flask, MongoDB, MySQL, German",Data Analyst,0.01426977307148997
+Unknown,"C, Core Java",Software Engineer,0.014555734650621727
+Unknown,"C, Core Java, English",Software Engineer,0.009917355587156534
+Not Provided,English,Data Analyst,0.0
+Not Available,"Java, Spring, Hibernate, MongoDB, MySQL",Software Engineer,0.02038263646069768
+Unknown,"Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3",Software Engineer,0.09167700757852577
+Unknown,"Python, Django, MySQL, REST API, English",Software Engineer,0.16536049362519434
+Not Available,"Java, Spring, Hibernate, jQuery, MySQL",Software Engineer,0.02614890974922634
+Not Available,Not Available,Data Analyst,0.0
+Not Provided,"C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, AWS",Data Engineer,0.05722230406560394
+Unknown,"C, SQL, JAVA, Spring, Hibernate, mysql, AWS, English",Data Engineer,0.03684268466449314
+Not Provided,"Python, AS/400, Flask, MongoDB, MySQL, Pivotal Cloud Foundry, German",Data Analyst,0.014133257789222574
+Not Provided,"Python, HTML, Django, MySQL, Not Provided",Data Analyst,0.013552896622680813
+Unknown,"C, Core Java, English",Software Engineer,0.009917355587156534
+Not Available,"Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services, AJAX, HTML, JSON, JavaScript, Apache Tomcat Server, Windows Server 2012 R2, Windows XP/7/8.1/10, Linux, Mac OS",Cloud Engineer,0.05905183413532879
+Not Available,"Java, JavaScript, Spring, Hibernate, Struts",Software Engineer,0.029720325673820543
